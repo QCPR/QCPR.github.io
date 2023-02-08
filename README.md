@@ -1,6 +1,6 @@
 # Queensland Centre for Population Research
 
-## [Covid Tracker](QCPR-COVID-Tracker/)
+## [Covid Tracker](https://github.com/QCPR/QCPR-COVID-Tracker/)
 
 ## [Tempo Project](/tempo/main/index.html)
 
