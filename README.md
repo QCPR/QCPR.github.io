@@ -7,5 +7,7 @@ The Queensland Centre for Population Research (QCPR) undertakes pure and applied
 
 [Temporary populations](https://qcpr.github.io/tempo/)
 
+[Brisbane SVP](https://qcpr.github.io/brisbaneSPV)
+
 
 
