@@ -1,5 +1,21 @@
 # Build settings
-title: Queensland Cantre for Population Reasearch - Github
+title: Queensland Centre for Population Reasearch
 author: Pia Wohland
 markdown: kramdown
 theme: minima
+
+social-network-links:
+  url: https://tinyurl.com/24x2sr3c
+  email: "p.wohland@uq.edu.au"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #facebook: deanattali
+  github: QCPR
+  twitter: @UQ_QCPR
+  linkedin: Queensland Centre for Population Reasearch
+
+#  stackoverflow: "QCPR"
+#  telephone: +61
+#  ORCID: ORCID ID
+#  google-scholar:  google scholar
+
+
