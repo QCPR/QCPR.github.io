@@ -19,4 +19,4 @@ Drawing on new and emerging sources of data, this project will develop a novel s
 
 ### Now Casting Internal Migration with MUVAL
 
-[Temporary populations](https://qcpr.github.io/MUVAL/)
+[MUVAL](https://qcpr.github.io/MUVAL/)
